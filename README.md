@@ -320,9 +320,8 @@ federated-mri-segmentation/
 
 ## 🤝 Team
 
-- **Ismoil Salohiddinov** (Coordinator) - Model architecture & FL implementation
+- **Ismoil Salohiddinov** (Coordinator) - Model architecture & FL implementation, Adapters & continual learning
 - **Komiljon Qosimov** - Dataset preparation & evaluation metrics
-- **Abdurrashid Djumabaev** - Adapters & continual learning
 
 ## 📧 Contact
 
